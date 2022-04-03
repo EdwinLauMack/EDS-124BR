@@ -1,3 +1,6 @@
-# EDS 124BR
+# EDS 124BR Teaching Programming Portfolio
 
-Teaching Programming Portfolio
+Hello I am Edwin Lau Mack and this is my Teaching Programming Portfolio for EDS-124BR
+
+### Explaining my Alonzo drawing a house program
+

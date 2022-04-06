@@ -7,4 +7,9 @@ Hello I am Edwin Lau Mack and this is my Teaching Programming Portfolio for EDS-
 
 [Click this link to see the explanation for Alonzo drawing a house](https://youtu.be/YkotD7GQNl8)
 
+--- 
+### Repeats: Write a Program
+
+[Click this link to see the explanation for the breakdancing program](https://youtu.be/NpU5pwqNyQU)
+
 

@@ -15,6 +15,6 @@ Hello I am Edwin Lau Mack and this is my Teaching Programming Portfolio for EDS-
 --- 
 ### Loop: Animal Parade
 
-[Click this link to see the explanation for the Loop: Animal Parade program](https://youtu.be/yWfB6w5PNuY)
+[Click this link to see the explanation for the Loop: Animal Parade program](https://youtu.be/vx_OwN9rGNs)
 
 

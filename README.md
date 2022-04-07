@@ -12,4 +12,9 @@ Hello I am Edwin Lau Mack and this is my Teaching Programming Portfolio for EDS-
 
 [Click this link to see the explanation for the breakdancing program](https://youtu.be/NpU5pwqNyQU)
 
+--- 
+### Loop: Animal Parade
+
+[Click this link to see the explanation for the Loop: Animal Parade program](link.com)
+
 

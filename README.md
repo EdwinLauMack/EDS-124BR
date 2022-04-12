@@ -20,5 +20,5 @@ Hello I am Edwin Lau Mack and this is my Teaching Programming Portfolio for EDS-
 ---
 ### Mouse: Nested Repeats
 
-[Click this link to see the explanation for the Mouse: Nested Repeats(https://youtu.be/46hIFDUwAh4)
+[Click this link to see the explanation for the Mouse: Nested Repeats](https://youtu.be/46hIFDUwAh4)
 

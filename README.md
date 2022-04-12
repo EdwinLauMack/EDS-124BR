@@ -17,4 +17,8 @@ Hello I am Edwin Lau Mack and this is my Teaching Programming Portfolio for EDS-
 
 [Click this link to see the explanation for the Loop: Animal Parade program](https://youtu.be/vx_OwN9rGNs)
 
+---
+### Mouse: Nested Repeats
+
+[Click this link to see the explanation for the Mouse: Nested Repeats(https://youtu.be/vx_OwN9rGNs)
 

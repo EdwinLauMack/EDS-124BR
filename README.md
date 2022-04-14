@@ -22,3 +22,7 @@ Hello I am Edwin Lau Mack and this is my Teaching Programming Portfolio for EDS-
 
 [Click this link to see the explanation for the Mouse: Nested Repeats](https://youtu.be/46hIFDUwAh4)
 
+---
+### Monkey: Getting the Banana
+[Click this link to see the exlpanaiton for the Monkey: Getting the Banana program](https://youtu.be/46hIFDUwAh4)
+

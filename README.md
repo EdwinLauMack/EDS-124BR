@@ -24,5 +24,5 @@ Hello I am Edwin Lau Mack and this is my Teaching Programming Portfolio for EDS-
 
 ---
 ### Monkey: Getting the Banana
-[Click this link to see the exlpanaiton for the Monkey: Getting the Banana program](https://youtu.be/46hIFDUwAh4)
+[Click this link to see the exlpanaiton for the Monkey: Getting the Banana program](https://youtu.be/FfBrwXpSgOo)
 

@@ -28,6 +28,6 @@ Hello I am Edwin Lau Mack and this is my Teaching Programming Portfolio for EDS-
 
 ---
 ### Variables: Drawing Shapes
-[Click this link to see the explanation for the Variables: Drawing Shapes program](https://youtu.be/FfBrwXpSgOo)
+[Click this link to see the explanation for the Variables: Drawing Shapes program](https://youtu.be/z6TfJJxOIy0)
 
 

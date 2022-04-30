@@ -27,7 +27,7 @@ Hello I am Edwin Lau Mack and this is my Teaching Programming Portfolio for EDS-
 [Click this link to see the explanation for the Monkey: Getting the Banana program](https://youtu.be/FfBrwXpSgOo)
 
 ---
-### Variables: Drawing Shapes
-[Click this link to see the explanation for the Variables: Drawing Shapes program](https://youtu.be/z6TfJJxOIy0)
+### Conditional: Stop the Ball
+[Click this link to see the explanation for the Conditional: Stop the Ball program](https://youtu.be/z6TfJJxOIy0)
 
 

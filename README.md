@@ -30,4 +30,9 @@ Hello I am Edwin Lau Mack and this is my Teaching Programming Portfolio for EDS-
 ### Conditional: Stop the Ball
 [Click this link to see the explanation for the Conditional: Stop the Ball program](https://youtu.be/1F75A9ODPe8)
 
+---
+### If-Else: Ball Game
+[Click this link to see the explanation for the If-Else: Ball Game](https://youtu.be/1F75A9ODPe8)
+
+
 

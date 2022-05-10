@@ -32,7 +32,11 @@ Hello I am Edwin Lau Mack and this is my Teaching Programming Portfolio for EDS-
 
 ---
 ### If-Else: Ball Game
-[Click this link to see the explanation for the If-Else: Ball Game](https://youtu.be/wyV7U-iRBis)
+[Click this link to see the explanation for the If-Else: Ball Game program](https://youtu.be/wyV7U-iRBis)
+
+---
+### Nested If-Else: Beach Penguin
+[Click this link to see the explanation for the Nested If-Else: Beach Penguin program](https://youtu.be/wyV7U-iRBis)
 
 
 

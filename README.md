@@ -42,6 +42,10 @@ Hello I am Edwin Lau Mack and this is my Teaching Programming Portfolio for EDS-
 ### Compound Conditionals: Find the treasure
 [Click this link to see the explanation for the Compound Conditionals: Find the treasure program](https://youtu.be/PAgdnkdsv7Y)
 
+---
+### Abstraction: Drawing Scenery 
+[Click this link to see the explanation for the Abstraction: Drawin Scenery program](https://youtu.be/PAgdnkdsv7Y)
+
 
 
 

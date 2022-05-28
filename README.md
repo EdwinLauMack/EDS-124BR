@@ -44,7 +44,7 @@ Hello I am Edwin Lau Mack and this is my Teaching Programming Portfolio for EDS-
 
 ---
 ### Abstraction: Drawing Scenery 
-[Click this link to see the explanation for the Abstraction: Drawin Scenery program](https://youtu.be/PAgdnkdsv7Y)
+[Click this link to see the explanation for the Abstraction: Drawin Scenery program](https://youtu.be/6uK7o0azFkQ)
 
 
 
